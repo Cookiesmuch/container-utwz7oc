@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Cookiesmuch",
+  "repo": "container-utwz7oc",
+  "name": "Cookiesmuch",
+  "email": "theofficialeverything@gmail.com",
+}
